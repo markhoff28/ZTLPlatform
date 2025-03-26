@@ -1,4 +1,4 @@
-# ZTLPlattform
+# ZTLPlatform
 
 A simple page showing all the development projects created in the Space. You are also welcome to show your own projects.
 
